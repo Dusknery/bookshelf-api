@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linne\\Documents\\GitHub\\bookshelf\\backend\\backend.csproj": {}
+    "C:\\Users\\linne\\Documents\\GitHub\\Bookshelf\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linne\\Documents\\GitHub\\bookshelf\\backend\\backend.csproj": {
+    "C:\\Users\\linne\\Documents\\GitHub\\Bookshelf\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linne\\Documents\\GitHub\\bookshelf\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\linne\\Documents\\GitHub\\Bookshelf\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\linne\\Documents\\GitHub\\bookshelf\\backend\\backend.csproj",
+        "projectPath": "C:\\Users\\linne\\Documents\\GitHub\\Bookshelf\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\linne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linne\\Documents\\GitHub\\bookshelf\\backend\\obj\\",
+        "outputPath": "C:\\Users\\linne\\Documents\\GitHub\\Bookshelf\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\linne\\AppData\\Roaming\\NuGet\\NuGet.Config"

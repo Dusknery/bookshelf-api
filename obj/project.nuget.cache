@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BiuHugM86Hw=",
+  "dgSpecHash": "JkIJoFl/vX8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\linne\\Documents\\GitHub\\bookshelf\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\linne\\Documents\\GitHub\\Bookshelf\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linne\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
     "C:\\Users\\linne\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
